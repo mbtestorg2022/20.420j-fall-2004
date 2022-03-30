@@ -5,6 +5,7 @@ description: Guidelines and instructions for an assignment to implement numerica
   by computational experimentation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/37fde9911a733e2506e9d50dd43ee7ac_model_imp_assig.pdf
 file_type: application/pdf
+parent_uid: bf2dbe84-d848-748f-0c59-02b7914c582a
 resourcetype: Document
 title: Guidelines for Model Implementation Assignments
 uid: 37fde991-1a73-3e25-06e9-d50dd43ee7ac
